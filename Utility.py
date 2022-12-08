@@ -77,7 +77,7 @@ class comparee(Powerball):
 # Here we call the class compare to run our program.
 
 
-c = comparee()
-c.insert()
-c.veiw()
-c.test()
+final = comparee()
+final.insert()
+final.veiw()
+final.test()
